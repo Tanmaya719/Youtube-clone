@@ -55,7 +55,7 @@ function Sidebar({sidebar,catagory,setCatagory}) {
             <div className="subscribed-list">
                 <h3>SUBSCRIBED</h3>
                 <div className="side-links">
-                    <img src={litu} alt="" height={30} /> <p>PewDiePie</p>
+                    <img src={litu} alt="" height={30} /> <p>Tanmaya19</p>
                 </div>
                 <div className="side-links">
                     <img src={simon} alt="" /> <p>MrBeast</p>
